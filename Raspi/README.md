@@ -1,1 +1,1 @@
-Dta from Raspi
+Data from Raspi
